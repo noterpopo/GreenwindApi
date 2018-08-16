@@ -1,0 +1,18 @@
+= Cheatsheets
+
+[[Question]]
+== Question
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[answerA]]`answerA`|`String`|-
+|[[answerB]]`answerB`|`String`|-
+|[[answerC]]`answerC`|`String`|-
+|[[answerD]]`answerD`|`String`|-
+|[[id]]`id`|`Number (int)`|-
+|[[question]]`question`|`String`|-
+|===
+
